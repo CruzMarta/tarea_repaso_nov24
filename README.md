@@ -22,3 +22,6 @@ Actividad de repaso de Git y GitHub. Noviembre 2024.
 10. git add para subirlo al stage.
 11. git commit -m "Modificacion 1 readme"
 12. git status para ver de nuevo el estado, nothing to commit.
+
+13. Repito el proceso, commit "Modificacion 2 readme"
+
